@@ -27,12 +27,19 @@ Installation:
  Already a lot of modules get installed by Anaconda by default, some of which includes:
  
 NumPy  Base N-dimensional array package
+
 SciPy library Fundamental library for scientific computing
+
 Matplotlib Comprehensive 2D Plotting
+
 IPython  Enhanced Interactive Console
+
 Sympy  Symbolic mathematics
+
 pandas  Data structures & analysis
+
 XGBoost  An optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.
+
 
 
 ## Leverage the Data_Set provided and Use the following the ipynb file.
